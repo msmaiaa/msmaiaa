@@ -17,5 +17,5 @@ globalThis.Matheus = {
 }
 ```
 
-## Me listening 🎧...
+## What i'm listening 🎧...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aaaaaaaaaaaaaaaaaaaimeudeus&cover_image=true&theme=default)](https://github.com/msmaiaa)
