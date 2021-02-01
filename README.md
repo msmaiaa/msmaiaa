@@ -4,7 +4,7 @@
 globalThis.Matheus = {
     Social: {
         GitHub: 'msmaiaa'
-        Linkedin: 'matheus-santos-488093178',
+        LinkedIn: 'matheus-santos-488093178',
         Telegram: '@msmaia',
         Discord: 'Pepe็็็',
     },
