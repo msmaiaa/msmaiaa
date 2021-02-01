@@ -3,7 +3,8 @@
 ```js
 globalThis.Matheus = {
     Social: {
-        GitHub: 'msmaiaa',
+        GitHub: 'msmaiaa'
+        Linkedin: 'matheus-santos-488093178',
         Telegram: '@msmaia',
         Discord: 'Pepe็็็',
     },
