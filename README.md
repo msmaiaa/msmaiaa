@@ -7,6 +7,7 @@ globalThis.Matheus = {
         LinkedIn: 'matheus-santos-488093178',
         Telegram: '@msmaia',
         Discord: 'Pepe็็็#1339',
+        Steam: 'https://steamcommunity.com/profiles/76561197993987883/'
     },
     Hobbies: [
         'JS',
