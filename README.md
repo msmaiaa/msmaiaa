@@ -3,5 +3,5 @@
 Node/Python/Backend  
 C/C++/Performance  
 React/Angular/Web  
-MongoDB/MySQL/Databases  
+MongoDB/MySQL/DB  
 React Native/Mobile  
