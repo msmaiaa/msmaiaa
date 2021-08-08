@@ -2,6 +2,7 @@
 
 Node/Python/Backend  
 C/C++/Performance  
-React/Angular/Web  
-MongoDB/MySQL/DB  
+Lua/Pawn/SourcePawn/Scripting
+React/Angular/Javascript/Web  
+MongoDB/MySQL/DB
 React Native/Mobile  
