@@ -4,5 +4,5 @@ Node/Python/Backend
 C/C++/Performance  
 Lua/Pawn/SourcePawn/Scripting  
 React/Angular/Javascript/Web  
-MongoDB/MySQL/DB
+MongoDB/MySQL/DB  
 React Native/Mobile  
