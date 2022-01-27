@@ -1,4 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=msmaiaa&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=msmaiaa&show_icons=true&theme=midnight-purple)
 
 Node/Python/Backend  
 C/C++/Performance  
