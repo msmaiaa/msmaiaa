@@ -3,4 +3,3 @@
   alt="WakaTime Activity"
 />
 <img src="https://github.com/msmaiaa/msmaiaa/blob/master/cat.gif" width="60px">
-<img src="https://github.com/msmaiaa/msmaiaa/blob/master/catBallon.gif" width="40px">
