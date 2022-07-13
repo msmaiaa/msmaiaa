@@ -1,5 +1,7 @@
 <img
   src="https://github.com/msmaiaa/msmaiaa/blob/master/images/stat.svg"
   alt="WakaTime Activity"
+  width="100%"
 />
-<img src="https://github.com/msmaiaa/msmaiaa/blob/master/cat.gif" width="60px">
+![stats](https://github-readme-stats.vercel.app/api?username=msmaiaa&show_icons=true&theme=radical)
+<img src="https://github.com/msmaiaa/msmaiaa/blob/master/cat.gif" width="200px" height="200px">
