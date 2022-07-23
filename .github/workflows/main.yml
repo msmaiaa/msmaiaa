@@ -1,26 +1,18 @@
-name: Waka Readme
+name: WakaTime status update
 
 on:
+  push:
+    branches: [main]
   schedule:
-    # Runs at 00:00 UTC
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: "0 0 * * *"
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: avinal/Profile-Readme-WakaTime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ github.token }}
-          SHOW_LINES_OF_CODE: True
-          SHOW_COMMIT: True
-          Show_OS: False
-          SHOW_LOC_CHART: False
-          SHOW_PROFILE_VIEWS: False
-          SHOW_DAYS_OF_WEEK: False
-          SHOW_PROJECTS: False
-          SHOW_TIMEZONE: False
-          SHOW_EDITORS: True
-          SHOW_SHORT_INFO: False
+          GITHUB_TOKEN: ${{ github.token }}
+          BRANCH: "master"
+          COMMIT_MSG: "Automated Coding Activity Update :alien:"
